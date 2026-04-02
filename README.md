@@ -1,7 +1,5 @@
 # 🏎️ F1 PitWall AI
 
-![Preview](preview.png)
-
 ## 🚀 Features
 - AI Chatbot for F1 Drivers
 - Driver Stats & Analysis
