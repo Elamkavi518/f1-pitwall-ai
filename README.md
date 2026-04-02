@@ -1,5 +1,16 @@
 # 🏎️ F1 PitWall AI
 
+![Preview](preview.png)
+
+## 🚀 Features
+- AI Chatbot for F1 Drivers
+- Driver Stats & Analysis
+- Race Strategy Insights
+- Animated UI (F1 Theme)
+
+## 🧠 Tech Used
+- HTML, CSS, JavaScript# 🏎️ F1 PitWall AI
+
 🚀 A futuristic Formula 1 race intelligence system with an interactive chatbot that provides driver insights, race stats, and performance analysis.
 
 ---
